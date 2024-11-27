@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "prod01",
+      "productName": "Cello pen",
+      "specification": "Red ball pen",
+      "manufacture": "Cello pvlt",
+      "quantity": "1000",
+      "price": "15",
+      "inStock": true
+    },
+    {
+      "id": "Prod04",
+      "productName": "keyboard",
+      "specification": "wireless",
+      "manufacture": "Dell",
+      "quantity": "120",
+      "price": "700",
+      "inStock": true
+    },
+    {
+      "id": "Prod05",
+      "productName": "pendrive",
+      "specification": "USB Type C,128 GB",
+      "manufacture": "Dell",
+      "quantity": "300",
+      "price": "1200",
+      "inStock": true
+    },
+    {
+      "id": "prod05",
+      "productName": "smartphone",
+      "specification": "12 gb ram 256 gb internal memory",
+      "manufacture": "realme",
+      "quantity": "300",
+      "price": "20000",
+      "inStock": true
+    }
+  ]
+}
